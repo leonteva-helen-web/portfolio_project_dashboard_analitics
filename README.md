@@ -8,7 +8,7 @@ BI-дашборд и аналитика бизнес-метрик e‑commerce  
 | Назначение | Ссылка |
 |------------|--------|
 | **Интерактивный дашборд (Superset)** | [https://superset.bi-analysts.education-services.ru/superset/dashboard/p/zpmaAQV7m2Y/](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/zpmaAQV7m2Y/) |
-| **PDF-версия дашборда** | [Скачать PDF](./dashboard/dashboard.pdf) |
+| **PDF-версия дашборда** | приобщена к репозиторию |
 | **Документация (Google Sheets)** | [Ссылка](https://docs.google.com/spreadsheets/d/1KUyZ9tKtABd3rpHLOQD3Rd1S-COVfB7T/edit?usp=sharing) |
 
 *Доступ к интерактивному дашборду может требовать авторизации. Для быстрого ознакомления используйте PDF.*
